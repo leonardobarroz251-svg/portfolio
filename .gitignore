@@ -5,3 +5,6 @@ dist
 
 # export do LinkedIn usado só como fonte do conteúdo
 Profile.pdf
+
+.vercel
+.env*
