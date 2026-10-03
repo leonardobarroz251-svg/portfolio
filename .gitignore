@@ -1,0 +1,7 @@
+node_modules
+dist
+.vercel
+*.local
+
+# export do LinkedIn usado só como fonte do conteúdo
+Profile.pdf
